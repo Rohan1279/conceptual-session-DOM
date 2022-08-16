@@ -10,7 +10,7 @@ document.getElementById("input-value").addEventListener("keyup", (event) => {
     inputBtn.setAttribute("disabled", true);
   }
 
-  //input condition
+  //input condition 2
   //   if (typeof inputValueText !== String) {
   //     inputBtn.removeAttribute("disabled");
   //   } else{ inputBtn.setAttribute("disabled", true)};
